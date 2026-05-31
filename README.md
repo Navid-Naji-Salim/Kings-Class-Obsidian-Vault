@@ -4,7 +4,7 @@
 
 - Contains notes taken during development, as well as architecture decision records
 
-- King's Class:
+- King's Class: https://github.com/Navid-Naji-Salim/Kings-Class
 
 
 
